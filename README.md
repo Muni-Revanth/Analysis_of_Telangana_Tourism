@@ -1,6 +1,6 @@
 # Analysis_of_Telangana_Tourism
 *************************************************************************************************************************************************************************************************************************************
-Greetings of the day,
+Greetings for the day,
 Here, I have analysed Telangana Tourism based on the historical data.
 
 Problem Statement : https://drive.google.com/file/d/1A_H8zgn5Wi_mgNAyZSGUYSwquOeYqJKZ/view?usp=drivesdk
